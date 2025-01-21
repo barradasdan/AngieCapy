@@ -1193,7 +1193,7 @@ MonoBehaviour:
   _centerPosition: {fileID: 1990900316}
   _idlePosition: {fileID: 1062280893}
   _maxDistance: 3.5
-  _shotForce: 5
+  _shotForce: 9
   _slingShotArea: {fileID: 872467146}
   _capyPreFab: {fileID: 1712741026549706498, guid: 8966d87a4b80348ac8b99436a9991dbb, type: 3}
   _angieCapPositionOffset: 0.65
