@@ -1,0 +1,3718 @@
+fileFormatVersion: 2
+guid: 4fbe1de8c5fe142d6810c00d72ac43db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1479277297171541869
+    second: MENU_SHOCKWAVE_POPUP_0
+  - first:
+      213: 4245549965442146875
+    second: MENU_SHOCKWAVE_POPUP_1
+  - first:
+      213: -2092961274416240496
+    second: MENU_SHOCKWAVE_POPUP_2
+  - first:
+      213: 1893248214287169822
+    second: MENU_SHOCKWAVE_POPUP_3
+  - first:
+      213: -5534066359252121712
+    second: MENU_SHOCKWAVE_POPUP_4
+  - first:
+      213: -5187353205946964451
+    second: MENU_SHOCKWAVE_POPUP_5
+  - first:
+      213: 5915720405750532525
+    second: MENU_SHOCKWAVE_POPUP_6
+  - first:
+      213: -1185711469448061078
+    second: MENU_SHOCKWAVE_POPUP_7
+  - first:
+      213: 5514285487303902075
+    second: MENU_SHOCKWAVE_POPUP_8
+  - first:
+      213: 7964712366550914709
+    second: MENU_SHOCKWAVE_POPUP_9
+  - first:
+      213: 835871235323918579
+    second: MENU_SHOCKWAVE_POPUP_10
+  - first:
+      213: 7664780967645695780
+    second: MENU_SHOCKWAVE_POPUP_11
+  - first:
+      213: 5071222087102444372
+    second: MENU_SHOCKWAVE_POPUP_12
+  - first:
+      213: 5379376032198847411
+    second: MENU_SHOCKWAVE_POPUP_13
+  - first:
+      213: -7912497740893858475
+    second: MENU_SHOCKWAVE_POPUP_14
+  - first:
+      213: 2331214253384055301
+    second: MENU_SHOCKWAVE_POPUP_15
+  - first:
+      213: -7908422247810855647
+    second: MENU_SHOCKWAVE_POPUP_16
+  - first:
+      213: 8643583422880200614
+    second: MENU_SHOCKWAVE_POPUP_17
+  - first:
+      213: 9000299908463945965
+    second: MENU_SHOCKWAVE_POPUP_18
+  - first:
+      213: -7768132175677637318
+    second: MENU_SHOCKWAVE_POPUP_19
+  - first:
+      213: 5808161607645138186
+    second: MENU_SHOCKWAVE_POPUP_20
+  - first:
+      213: 9160634848422876142
+    second: MENU_SHOCKWAVE_POPUP_21
+  - first:
+      213: -6306790674493548257
+    second: MENU_SHOCKWAVE_POPUP_22
+  - first:
+      213: 1694836365197205745
+    second: MENU_SHOCKWAVE_POPUP_23
+  - first:
+      213: 7494684947155322128
+    second: MENU_SHOCKWAVE_POPUP_24
+  - first:
+      213: -4975120744913040304
+    second: MENU_SHOCKWAVE_POPUP_25
+  - first:
+      213: 7252058684255658405
+    second: MENU_SHOCKWAVE_POPUP_26
+  - first:
+      213: -4461252293196969404
+    second: MENU_SHOCKWAVE_POPUP_27
+  - first:
+      213: 7385502966019640180
+    second: MENU_SHOCKWAVE_POPUP_28
+  - first:
+      213: 188839734172443658
+    second: MENU_SHOCKWAVE_POPUP_29
+  - first:
+      213: 6004816677596068161
+    second: MENU_SHOCKWAVE_POPUP_30
+  - first:
+      213: -7501887342953398026
+    second: MENU_SHOCKWAVE_POPUP_31
+  - first:
+      213: -1942790260395907712
+    second: MENU_SHOCKWAVE_POPUP_32
+  - first:
+      213: 8363686842516445637
+    second: MENU_SHOCKWAVE_POPUP_33
+  - first:
+      213: -1796940334105876940
+    second: MENU_SHOCKWAVE_POPUP_34
+  - first:
+      213: 7227092219366719430
+    second: MENU_SHOCKWAVE_POPUP_35
+  - first:
+      213: 1974227363076038834
+    second: MENU_SHOCKWAVE_POPUP_36
+  - first:
+      213: -428358795379670166
+    second: MENU_SHOCKWAVE_POPUP_37
+  - first:
+      213: 5115972119838415481
+    second: MENU_SHOCKWAVE_POPUP_38
+  - first:
+      213: -2305998512770431334
+    second: MENU_SHOCKWAVE_POPUP_39
+  - first:
+      213: 4853426057998603791
+    second: MENU_SHOCKWAVE_POPUP_40
+  - first:
+      213: -5194843569014323737
+    second: MENU_SHOCKWAVE_POPUP_41
+  - first:
+      213: 5181541566317322071
+    second: MENU_SHOCKWAVE_POPUP_42
+  - first:
+      213: 4274575046489924629
+    second: MENU_SHOCKWAVE_POPUP_43
+  - first:
+      213: -107164296216823510
+    second: MENU_SHOCKWAVE_POPUP_44
+  - first:
+      213: 8992148170279530632
+    second: MENU_SHOCKWAVE_POPUP_45
+  - first:
+      213: -5202903658974778459
+    second: MENU_SHOCKWAVE_POPUP_46
+  - first:
+      213: 2299912451169388314
+    second: MENU_SHOCKWAVE_POPUP_47
+  - first:
+      213: 9112347280829090029
+    second: MENU_SHOCKWAVE_POPUP_48
+  - first:
+      213: 2285277890169393218
+    second: MENU_SHOCKWAVE_POPUP_49
+  - first:
+      213: 3743897885897218793
+    second: MENU_SHOCKWAVE_POPUP_50
+  - first:
+      213: 4556057506636451398
+    second: MENU_SHOCKWAVE_POPUP_51
+  - first:
+      213: 8771407678403988595
+    second: MENU_SHOCKWAVE_POPUP_52
+  - first:
+      213: -8249408634687813125
+    second: MENU_SHOCKWAVE_POPUP_53
+  - first:
+      213: -5940861178713656807
+    second: MENU_SHOCKWAVE_POPUP_54
+  - first:
+      213: -8038097007300771239
+    second: MENU_SHOCKWAVE_POPUP_55
+  - first:
+      213: 6808711511695780456
+    second: MENU_SHOCKWAVE_POPUP_56
+  - first:
+      213: 2171770992068799470
+    second: MENU_SHOCKWAVE_POPUP_57
+  - first:
+      213: -8525966537075671382
+    second: MENU_SHOCKWAVE_POPUP_58
+  - first:
+      213: -7867325937443206822
+    second: MENU_SHOCKWAVE_POPUP_59
+  - first:
+      213: -773111809844386569
+    second: MENU_SHOCKWAVE_POPUP_60
+  - first:
+      213: -3574866975646967014
+    second: MENU_SHOCKWAVE_POPUP_61
+  - first:
+      213: 7602225250982390347
+    second: MENU_SHOCKWAVE_POPUP_62
+  - first:
+      213: -2113336868926750502
+    second: MENU_SHOCKWAVE_POPUP_63
+  - first:
+      213: -1449693818390266033
+    second: MENU_SHOCKWAVE_POPUP_64
+  - first:
+      213: -3909926930503823618
+    second: MENU_SHOCKWAVE_POPUP_65
+  - first:
+      213: 5067524310695498222
+    second: MENU_SHOCKWAVE_POPUP_66
+  - first:
+      213: -6150330122646522958
+    second: MENU_SHOCKWAVE_POPUP_67
+  - first:
+      213: -6401887225926467834
+    second: MENU_SHOCKWAVE_POPUP_68
+  - first:
+      213: -258245218145255768
+    second: MENU_SHOCKWAVE_POPUP_69
+  - first:
+      213: -9110975356392786346
+    second: MENU_SHOCKWAVE_POPUP_70
+  - first:
+      213: -7847526577669452199
+    second: MENU_SHOCKWAVE_POPUP_71
+  - first:
+      213: 56727874886208547
+    second: MENU_SHOCKWAVE_POPUP_72
+  - first:
+      213: -7027456267236568437
+    second: MENU_SHOCKWAVE_POPUP_73
+  - first:
+      213: 8957394328157653325
+    second: MENU_SHOCKWAVE_POPUP_74
+  - first:
+      213: 45274933975036796
+    second: MENU_SHOCKWAVE_POPUP_75
+  - first:
+      213: -5265712359515607271
+    second: MENU_SHOCKWAVE_POPUP_76
+  - first:
+      213: -6448060919202360918
+    second: MENU_SHOCKWAVE_POPUP_77
+  - first:
+      213: -909721790089170192
+    second: MENU_SHOCKWAVE_POPUP_78
+  - first:
+      213: -4241943449891307203
+    second: MENU_SHOCKWAVE_POPUP_79
+  - first:
+      213: -8077909583988065382
+    second: MENU_SHOCKWAVE_POPUP_80
+  - first:
+      213: 4921366531382012231
+    second: MENU_SHOCKWAVE_POPUP_81
+  - first:
+      213: 6831316537487207916
+    second: MENU_SHOCKWAVE_POPUP_82
+  - first:
+      213: 7524072905348945179
+    second: MENU_SHOCKWAVE_POPUP_83
+  - first:
+      213: 3567773782236264493
+    second: MENU_SHOCKWAVE_POPUP_84
+  - first:
+      213: -3284121762988933558
+    second: MENU_SHOCKWAVE_POPUP_85
+  - first:
+      213: 6376565103827876315
+    second: MENU_SHOCKWAVE_POPUP_86
+  - first:
+      213: 2605808447623469301
+    second: MENU_SHOCKWAVE_POPUP_87
+  - first:
+      213: 7060664901839590554
+    second: MENU_SHOCKWAVE_POPUP_88
+  - first:
+      213: 3609032690505546425
+    second: MENU_SHOCKWAVE_POPUP_89
+  - first:
+      213: -2430702151356225876
+    second: MENU_SHOCKWAVE_POPUP_90
+  - first:
+      213: 7972447229756062441
+    second: MENU_SHOCKWAVE_POPUP_91
+  - first:
+      213: -5831189555923470705
+    second: MENU_SHOCKWAVE_POPUP_92
+  - first:
+      213: 4894095119841743602
+    second: MENU_SHOCKWAVE_POPUP_93
+  - first:
+      213: 7365582924524142903
+    second: MENU_SHOCKWAVE_POPUP_94
+  - first:
+      213: 3349593431796730480
+    second: MENU_SHOCKWAVE_POPUP_95
+  - first:
+      213: 5662701056675626094
+    second: MENU_SHOCKWAVE_POPUP_96
+  - first:
+      213: -565522868729500504
+    second: MENU_SHOCKWAVE_POPUP_97
+  - first:
+      213: -3533853091972488554
+    second: MENU_SHOCKWAVE_POPUP_98
+  - first:
+      213: 5745243997134617956
+    second: MENU_SHOCKWAVE_POPUP_99
+  - first:
+      213: -6234362287759169391
+    second: MENU_SHOCKWAVE_POPUP_100
+  - first:
+      213: -1208094790131286239
+    second: MENU_SHOCKWAVE_POPUP_101
+  - first:
+      213: -1913592935139690960
+    second: MENU_SHOCKWAVE_POPUP_102
+  - first:
+      213: -8022514104644628555
+    second: MENU_SHOCKWAVE_POPUP_103
+  - first:
+      213: 8309700044039948684
+    second: MENU_SHOCKWAVE_POPUP_104
+  - first:
+      213: 2725882099948458101
+    second: MENU_SHOCKWAVE_POPUP_105
+  - first:
+      213: 3228218965600378459
+    second: MENU_SHOCKWAVE_POPUP_106
+  - first:
+      213: -279376252145039196
+    second: MENU_SHOCKWAVE_POPUP_107
+  - first:
+      213: 3675227791081693493
+    second: MENU_SHOCKWAVE_POPUP_108
+  - first:
+      213: 3804418656172689794
+    second: MENU_SHOCKWAVE_POPUP_109
+  - first:
+      213: 500711915175078361
+    second: MENU_SHOCKWAVE_POPUP_110
+  - first:
+      213: -8733764287919731381
+    second: MENU_SHOCKWAVE_POPUP_111
+  - first:
+      213: -6212182085378131876
+    second: MENU_SHOCKWAVE_POPUP_112
+  - first:
+      213: 172363907307262684
+    second: MENU_SHOCKWAVE_POPUP_113
+  - first:
+      213: 9096159975013539751
+    second: MENU_SHOCKWAVE_POPUP_114
+  - first:
+      213: 4890433626410467988
+    second: MENU_SHOCKWAVE_POPUP_115
+  - first:
+      213: -3504553751272199649
+    second: MENU_SHOCKWAVE_POPUP_116
+  - first:
+      213: 2358973518328556117
+    second: MENU_SHOCKWAVE_POPUP_117
+  - first:
+      213: -5559575607817780951
+    second: MENU_SHOCKWAVE_POPUP_118
+  - first:
+      213: 7317841516008961032
+    second: MENU_SHOCKWAVE_POPUP_119
+  - first:
+      213: 1358793560326783626
+    second: MENU_SHOCKWAVE_POPUP_120
+  - first:
+      213: 5710348945983911421
+    second: MENU_SHOCKWAVE_POPUP_121
+  - first:
+      213: 454627850482750365
+    second: MENU_SHOCKWAVE_POPUP_122
+  - first:
+      213: -6916384508347787714
+    second: MENU_SHOCKWAVE_POPUP_123
+  - first:
+      213: -8546633344297785821
+    second: MENU_SHOCKWAVE_POPUP_124
+  - first:
+      213: 3540425645602359719
+    second: MENU_SHOCKWAVE_POPUP_125
+  - first:
+      213: -611737902151133170
+    second: MENU_SHOCKWAVE_POPUP_126
+  - first:
+      213: -3676318569931710208
+    second: MENU_SHOCKWAVE_POPUP_127
+  - first:
+      213: -6814627077301968593
+    second: MENU_SHOCKWAVE_POPUP_128
+  - first:
+      213: -6721313065560974155
+    second: MENU_SHOCKWAVE_POPUP_129
+  - first:
+      213: 2375901751868014996
+    second: MENU_SHOCKWAVE_POPUP_130
+  - first:
+      213: -106680708974337112
+    second: MENU_SHOCKWAVE_POPUP_131
+  - first:
+      213: -7092434462340944042
+    second: MENU_SHOCKWAVE_POPUP_132
+  - first:
+      213: 8189507418643331841
+    second: MENU_SHOCKWAVE_POPUP_133
+  - first:
+      213: -1084979888432901251
+    second: MENU_SHOCKWAVE_POPUP_134
+  - first:
+      213: -1952531668814671216
+    second: MENU_SHOCKWAVE_POPUP_135
+  - first:
+      213: -5032933946017469356
+    second: MENU_SHOCKWAVE_POPUP_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 378
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3905ac1c22d887be0800000000000000
+      internalID: -1479277297171541869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 864
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32e95e13393bea30800000000000000
+      internalID: 4245549965442146875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 837
+        width: 254
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09865c55fce44f2e0800000000000000
+      internalID: -2092961274416240496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 893
+        width: 249
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19ba34583b264a10800000000000000
+      internalID: 1893248214287169822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 895
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097865d87fb0333b0800000000000000
+      internalID: -5534066359252121712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 865
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d162c033eb1d208b0800000000000000
+      internalID: -5187353205946964451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 865
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da94a4fbd5cd81250800000000000000
+      internalID: 5915720405750532525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 865
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f117163b18b8fe0800000000000000
+      internalID: -1185711469448061078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 865
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7347dc4f6da68c40800000000000000
+      internalID: 5514285487303902075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_9
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 865
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5969d62d2b7588e60800000000000000
+      internalID: 7964712366550914709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 865
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8f27bb57c999b00800000000000000
+      internalID: 835871235323918579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 757
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f42b92ea5ce5a60800000000000000
+      internalID: 7664780967645695780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 756
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4533bd6ae99906640800000000000000
+      internalID: 5071222087102444372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_13
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 756
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb6678000267aa40800000000000000
+      internalID: 5379376032198847411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 781
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555d0f31a39213290800000000000000
+      internalID: -7912497740893858475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 757
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ab84c13032a5020800000000000000
+      internalID: 2331214253384055301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_16
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 756
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d0071cdd3af3290800000000000000
+      internalID: -7908422247810855647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_17
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 756
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7ba33d35d24f770800000000000000
+      internalID: 8643583422880200614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_18
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 781
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de869f3c41d77ec70800000000000000
+      internalID: 9000299908463945965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 762
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3db37c81fc023490800000000000000
+      internalID: -7768132175677637318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_20
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 762
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d00cd853cba9050800000000000000
+      internalID: 5808161607645138186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 729
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee35f490cdc112f70800000000000000
+      internalID: 9160634848422876142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 729
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19d01edb47c978a0800000000000000
+      internalID: -6306790674493548257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 728
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f06efbc1b4458710800000000000000
+      internalID: 1694836365197205745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_24
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 729
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01509aa3048720860800000000000000
+      internalID: 7494684947155322128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_25
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 732
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c08c4ba02d4fab0800000000000000
+      internalID: -4975120744913040304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_26
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 731
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1685543fc74a460800000000000000
+      internalID: 7252058684255658405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_27
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 732
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a09921da27612c0800000000000000
+      internalID: -4461252293196969404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 654
+        width: 287
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bc13941d39e7660800000000000000
+      internalID: 7385502966019640180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_29
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 656
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e3dadcb4ee9200800000000000000
+      internalID: 188839734172443658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 664
+        width: 252
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149747114f4655350800000000000000
+      internalID: 6004816677596068161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_31
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 670
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f083425531f3e790800000000000000
+      internalID: -7501887342953398026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_32
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 625
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08563003d82d905e0800000000000000
+      internalID: -1942790260395907712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c91dccded8c11470800000000000000
+      internalID: 8363686842516445637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4362c07694cff07e0800000000000000
+      internalID: -1796940334105876940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 625
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfb75e251acb4460800000000000000
+      internalID: 7227092219366719430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_36
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 628
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e00aa35dd56b10800000000000000
+      internalID: 1974227363076038834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_37
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 629
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a630bf4f1f92e0af0800000000000000
+      internalID: -428358795379670166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_38
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 629
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a55c399859ff640800000000000000
+      internalID: 5115972119838415481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 552
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964db102927fffd0800000000000000
+      internalID: -2305998512770431334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 552
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0691a20945da5340800000000000000
+      internalID: 4853426057998603791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 559
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5cd252c4538e7b0800000000000000
+      internalID: -5194843569014323737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_42
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 576
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd3410a9888e740800000000000000
+      internalID: 5181541566317322071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_43
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 552
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514e7cb6b57525b30800000000000000
+      internalID: 4274575046489924629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 552
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29346fe3a6438ef0800000000000000
+      internalID: -107164296216823510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_45
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 559
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b0315e178acc70800000000000000
+      internalID: 8992148170279530632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_46
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 576
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab6a3630b29bc7b0800000000000000
+      internalID: -5202903658974778459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17037a503eeaef10800000000000000
+      internalID: 2299912451169388314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 525
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de880d7929f857e70800000000000000
+      internalID: 9112347280829090029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_49
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 525
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d9981220f6bf10800000000000000
+      internalID: 2285277890169393218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_50
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 525
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea5d3c8a4ff4f330800000000000000
+      internalID: 3743897885897218793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_51
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e415bc92e5a3f30800000000000000
+      internalID: 4556057506636451398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_52
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 525
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c47638fcc4ab970800000000000000
+      internalID: 8771407678403988595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_53
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 525
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf98462dd86348d80800000000000000
+      internalID: -8249408634687813125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_54
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 525
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9123dd6eb32dd8da0800000000000000
+      internalID: -5940861178713656807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_55
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 525
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95205b90c51f27090800000000000000
+      internalID: -8038097007300771239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_56
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 526
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6db8bb076d7e50800000000000000
+      internalID: 6808711511695780456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_57
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 526
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb22c3f53ea32e10800000000000000
+      internalID: 2171770992068799470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_58
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 526
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaebcb66b9eada980800000000000000
+      internalID: -8525966537075671382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_59
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 526
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a590b762eb4a1d290800000000000000
+      internalID: -7867325937443206822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_60
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 526
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4e092b7ea5545f0800000000000000
+      internalID: -773111809844386569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_61
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 457
+        width: 307
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b99451d65836ec0800000000000000
+      internalID: -3574866975646967014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_62
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 526
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a6f436697808960800000000000000
+      internalID: 7602225250982390347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_63
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 526
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad082ec805beba2e0800000000000000
+      internalID: -2113336868926750502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_64
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 526
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fb4c92727a1ebe0800000000000000
+      internalID: -1449693818390266033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 463
+        width: 282
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe06912c262db9c0800000000000000
+      internalID: -3909926930503823618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_66
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 465
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee159adf286735640800000000000000
+      internalID: 5067524310695498222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_67
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 431
+        width: 89
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3f44cd653a5aaa0800000000000000
+      internalID: -6150330122646522958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 431
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fba869c7de727a0800000000000000
+      internalID: -6401887225926467834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_69
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 430
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae3283a7578a6cf0800000000000000
+      internalID: -258245218145255768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_70
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 431
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656bed47f205f8180800000000000000
+      internalID: -9110975356392786346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_71
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 431
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e4394d72cf71390800000000000000
+      internalID: -7847526577669452199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_72
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 430
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c847f93b989c000800000000000000
+      internalID: 56727874886208547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_73
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 430
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8295cc02c5797e90800000000000000
+      internalID: -7027456267236568437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_74
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 431
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498fe2eeae0f4c70800000000000000
+      internalID: 8957394328157653325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_75
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 430
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73bfc40059d0a000800000000000000
+      internalID: 45274933975036796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_76
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 431
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f20b9028e6ce6b0800000000000000
+      internalID: -5265712359515607271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_77
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 431
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15ddcd1c2e386a0800000000000000
+      internalID: -6448060919202360918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_78
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 431
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f27d411ad40063f0800000000000000
+      internalID: -909721790089170192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_79
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 431
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d310fe738e69125c0800000000000000
+      internalID: -4241943449891307203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_80
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 431
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bfaae280085ef80800000000000000
+      internalID: -8077909583988065382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 259
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749658829c43c4440800000000000000
+      internalID: 4921366531382012231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_82
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 368
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced2d2d6236bdce50800000000000000
+      internalID: 6831316537487207916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 367
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1517737170ea6860800000000000000
+      internalID: 7524072905348945179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_84
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 366
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f4212a57438130800000000000000
+      internalID: 3567773782236264493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_85
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 376
+        width: 146
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e3ae518a47c62d0800000000000000
+      internalID: -3284121762988933558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_86
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 377
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ffcc6d2c1e7850800000000000000
+      internalID: 6376565103827876315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_87
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 376
+        width: 107
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f81f491af0b92420800000000000000
+      internalID: 2605808447623469301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_88
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a949738b1558cf160800000000000000
+      internalID: 7060664901839590554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_89
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 341
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bafa5c4c1cd51230800000000000000
+      internalID: 3609032690505546425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_90
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 341
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca662a19549644ed0800000000000000
+      internalID: -2430702151356225876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 340
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea38200482d3ae60800000000000000
+      internalID: 7972447229756062441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_92
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 340
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86b63d6ef3731fa0800000000000000
+      internalID: -5831189555923470705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_93
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 340
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d32bd4915be340800000000000000
+      internalID: 4894095119841743602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_94
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 340
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731c1f335aec73660800000000000000
+      internalID: 7365582924524142903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_95
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 340
+        width: 115
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ac934ba752c7e20800000000000000
+      internalID: 3349593431796730480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_96
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 342
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c3168db94f59e40800000000000000
+      internalID: 5662701056675626094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_97
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 341
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca40972fbd628f0800000000000000
+      internalID: -565522868729500504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_98
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 341
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6926094065b35fec0800000000000000
+      internalID: -3533853091972488554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_99
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 341
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d772dc9f43bbf40800000000000000
+      internalID: 5745243997134617956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_100
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 341
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198e505c7881b79a0800000000000000
+      internalID: -6234362287759169391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 288
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f793b603cfb3fe0800000000000000
+      internalID: -1208094790131286239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_102
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 288
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363d483d5d8175e0800000000000000
+      internalID: -1913592935139690960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_103
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 288
+        width: 207
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf881b4ded4aa090800000000000000
+      internalID: -8022514104644628555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 115
+        width: 237
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c898c03d92cf15370800000000000000
+      internalID: 8309700044039948684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_105
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 194
+        width: 318
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570160bd35744d520800000000000000
+      internalID: 2725882099948458101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_106
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 253
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e1acd9b00fccc20800000000000000
+      internalID: 3228218965600378459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_107
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 253
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8073467c47f1cf0800000000000000
+      internalID: -279376252145039196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_108
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 253
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531611c2438010330800000000000000
+      internalID: 3675227791081693493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_109
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 253
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ca027c920cc430800000000000000
+      internalID: 3804418656172689794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_110
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 253
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9e0de75d2e2f600800000000000000
+      internalID: 500711915175078361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d4d8257af6bc680800000000000000
+      internalID: -8733764287919731381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_112
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58bdf09e45e9c9a0800000000000000
+      internalID: -6212182085378131876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_113
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 112
+        width: 330
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d52b7f0c546200800000000000000
+      internalID: 172363907307262684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 167
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afdec2cd4d0c3e70800000000000000
+      internalID: 9096159975013539751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_115
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 167
+        width: 86
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49242dbf87f4ed340800000000000000
+      internalID: 4890433626410467988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_116
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 167
+        width: 101
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a682f5ee25d5fc0800000000000000
+      internalID: -3504553751272199649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_117
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 167
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ae682aae1ccb020800000000000000
+      internalID: 2358973518328556117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 240
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921481ac07b68d2b0800000000000000
+      internalID: -5559575607817780951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_119
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 83
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804f15456123e8560800000000000000
+      internalID: 7317841516008961032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_120
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 83
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82cd5e3b876bd210800000000000000
+      internalID: 1358793560326783626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_121
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 83
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5b5e49c1c3f3f40800000000000000
+      internalID: 5710348945983911421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_122
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 82
+        width: 126
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93160d0f992f4600800000000000000
+      internalID: 454627850482750365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_123
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 88
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e365ae92fe01400a0800000000000000
+      internalID: -6916384508347787714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_124
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 12
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3262f9f5142446980800000000000000
+      internalID: -8546633344297785821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_125
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9cfcfdd5e122130800000000000000
+      internalID: 3540425645602359719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_126
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 13
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0893ae7e9ba287f0800000000000000
+      internalID: -611737902151133170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_127
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 13
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0016c061db71bfcc0800000000000000
+      internalID: -3676318569931710208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_128
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 13
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2168a457c49d61a0800000000000000
+      internalID: -6814627077301968593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_129
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 13
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcdb0fb06919b2a0800000000000000
+      internalID: -6721313065560974155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 13
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49142552e06e8f020800000000000000
+      internalID: 2375901751868014996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_131
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 33
+        width: 325
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3a23dd57ef48ef0800000000000000
+      internalID: -106680708974337112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_132
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fed6f0f6c929d90800000000000000
+      internalID: -7092434462340944042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_133
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 88
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b79ad7b99f6a170800000000000000
+      internalID: 8189507418643331841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_134
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7393893a8061f0f0800000000000000
+      internalID: -1084979888432901251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_135
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d99bcac637e4e0800000000000000
+      internalID: -1952531668814671216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENU_SHOCKWAVE_POPUP_136
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45caf91ed3d672ab0800000000000000
+      internalID: -5032933946017469356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MENU_SHOCKWAVE_POPUP_0: -1479277297171541869
+      MENU_SHOCKWAVE_POPUP_1: 4245549965442146875
+      MENU_SHOCKWAVE_POPUP_10: 835871235323918579
+      MENU_SHOCKWAVE_POPUP_100: -6234362287759169391
+      MENU_SHOCKWAVE_POPUP_101: -1208094790131286239
+      MENU_SHOCKWAVE_POPUP_102: -1913592935139690960
+      MENU_SHOCKWAVE_POPUP_103: -8022514104644628555
+      MENU_SHOCKWAVE_POPUP_104: 8309700044039948684
+      MENU_SHOCKWAVE_POPUP_105: 2725882099948458101
+      MENU_SHOCKWAVE_POPUP_106: 3228218965600378459
+      MENU_SHOCKWAVE_POPUP_107: -279376252145039196
+      MENU_SHOCKWAVE_POPUP_108: 3675227791081693493
+      MENU_SHOCKWAVE_POPUP_109: 3804418656172689794
+      MENU_SHOCKWAVE_POPUP_11: 7664780967645695780
+      MENU_SHOCKWAVE_POPUP_110: 500711915175078361
+      MENU_SHOCKWAVE_POPUP_111: -8733764287919731381
+      MENU_SHOCKWAVE_POPUP_112: -6212182085378131876
+      MENU_SHOCKWAVE_POPUP_113: 172363907307262684
+      MENU_SHOCKWAVE_POPUP_114: 9096159975013539751
+      MENU_SHOCKWAVE_POPUP_115: 4890433626410467988
+      MENU_SHOCKWAVE_POPUP_116: -3504553751272199649
+      MENU_SHOCKWAVE_POPUP_117: 2358973518328556117
+      MENU_SHOCKWAVE_POPUP_118: -5559575607817780951
+      MENU_SHOCKWAVE_POPUP_119: 7317841516008961032
+      MENU_SHOCKWAVE_POPUP_12: 5071222087102444372
+      MENU_SHOCKWAVE_POPUP_120: 1358793560326783626
+      MENU_SHOCKWAVE_POPUP_121: 5710348945983911421
+      MENU_SHOCKWAVE_POPUP_122: 454627850482750365
+      MENU_SHOCKWAVE_POPUP_123: -6916384508347787714
+      MENU_SHOCKWAVE_POPUP_124: -8546633344297785821
+      MENU_SHOCKWAVE_POPUP_125: 3540425645602359719
+      MENU_SHOCKWAVE_POPUP_126: -611737902151133170
+      MENU_SHOCKWAVE_POPUP_127: -3676318569931710208
+      MENU_SHOCKWAVE_POPUP_128: -6814627077301968593
+      MENU_SHOCKWAVE_POPUP_129: -6721313065560974155
+      MENU_SHOCKWAVE_POPUP_13: 5379376032198847411
+      MENU_SHOCKWAVE_POPUP_130: 2375901751868014996
+      MENU_SHOCKWAVE_POPUP_131: -106680708974337112
+      MENU_SHOCKWAVE_POPUP_132: -7092434462340944042
+      MENU_SHOCKWAVE_POPUP_133: 8189507418643331841
+      MENU_SHOCKWAVE_POPUP_134: -1084979888432901251
+      MENU_SHOCKWAVE_POPUP_135: -1952531668814671216
+      MENU_SHOCKWAVE_POPUP_136: -5032933946017469356
+      MENU_SHOCKWAVE_POPUP_14: -7912497740893858475
+      MENU_SHOCKWAVE_POPUP_15: 2331214253384055301
+      MENU_SHOCKWAVE_POPUP_16: -7908422247810855647
+      MENU_SHOCKWAVE_POPUP_17: 8643583422880200614
+      MENU_SHOCKWAVE_POPUP_18: 9000299908463945965
+      MENU_SHOCKWAVE_POPUP_19: -7768132175677637318
+      MENU_SHOCKWAVE_POPUP_2: -2092961274416240496
+      MENU_SHOCKWAVE_POPUP_20: 5808161607645138186
+      MENU_SHOCKWAVE_POPUP_21: 9160634848422876142
+      MENU_SHOCKWAVE_POPUP_22: -6306790674493548257
+      MENU_SHOCKWAVE_POPUP_23: 1694836365197205745
+      MENU_SHOCKWAVE_POPUP_24: 7494684947155322128
+      MENU_SHOCKWAVE_POPUP_25: -4975120744913040304
+      MENU_SHOCKWAVE_POPUP_26: 7252058684255658405
+      MENU_SHOCKWAVE_POPUP_27: -4461252293196969404
+      MENU_SHOCKWAVE_POPUP_28: 7385502966019640180
+      MENU_SHOCKWAVE_POPUP_29: 188839734172443658
+      MENU_SHOCKWAVE_POPUP_3: 1893248214287169822
+      MENU_SHOCKWAVE_POPUP_30: 6004816677596068161
+      MENU_SHOCKWAVE_POPUP_31: -7501887342953398026
+      MENU_SHOCKWAVE_POPUP_32: -1942790260395907712
+      MENU_SHOCKWAVE_POPUP_33: 8363686842516445637
+      MENU_SHOCKWAVE_POPUP_34: -1796940334105876940
+      MENU_SHOCKWAVE_POPUP_35: 7227092219366719430
+      MENU_SHOCKWAVE_POPUP_36: 1974227363076038834
+      MENU_SHOCKWAVE_POPUP_37: -428358795379670166
+      MENU_SHOCKWAVE_POPUP_38: 5115972119838415481
+      MENU_SHOCKWAVE_POPUP_39: -2305998512770431334
+      MENU_SHOCKWAVE_POPUP_4: -5534066359252121712
+      MENU_SHOCKWAVE_POPUP_40: 4853426057998603791
+      MENU_SHOCKWAVE_POPUP_41: -5194843569014323737
+      MENU_SHOCKWAVE_POPUP_42: 5181541566317322071
+      MENU_SHOCKWAVE_POPUP_43: 4274575046489924629
+      MENU_SHOCKWAVE_POPUP_44: -107164296216823510
+      MENU_SHOCKWAVE_POPUP_45: 8992148170279530632
+      MENU_SHOCKWAVE_POPUP_46: -5202903658974778459
+      MENU_SHOCKWAVE_POPUP_47: 2299912451169388314
+      MENU_SHOCKWAVE_POPUP_48: 9112347280829090029
+      MENU_SHOCKWAVE_POPUP_49: 2285277890169393218
+      MENU_SHOCKWAVE_POPUP_5: -5187353205946964451
+      MENU_SHOCKWAVE_POPUP_50: 3743897885897218793
+      MENU_SHOCKWAVE_POPUP_51: 4556057506636451398
+      MENU_SHOCKWAVE_POPUP_52: 8771407678403988595
+      MENU_SHOCKWAVE_POPUP_53: -8249408634687813125
+      MENU_SHOCKWAVE_POPUP_54: -5940861178713656807
+      MENU_SHOCKWAVE_POPUP_55: -8038097007300771239
+      MENU_SHOCKWAVE_POPUP_56: 6808711511695780456
+      MENU_SHOCKWAVE_POPUP_57: 2171770992068799470
+      MENU_SHOCKWAVE_POPUP_58: -8525966537075671382
+      MENU_SHOCKWAVE_POPUP_59: -7867325937443206822
+      MENU_SHOCKWAVE_POPUP_6: 5915720405750532525
+      MENU_SHOCKWAVE_POPUP_60: -773111809844386569
+      MENU_SHOCKWAVE_POPUP_61: -3574866975646967014
+      MENU_SHOCKWAVE_POPUP_62: 7602225250982390347
+      MENU_SHOCKWAVE_POPUP_63: -2113336868926750502
+      MENU_SHOCKWAVE_POPUP_64: -1449693818390266033
+      MENU_SHOCKWAVE_POPUP_65: -3909926930503823618
+      MENU_SHOCKWAVE_POPUP_66: 5067524310695498222
+      MENU_SHOCKWAVE_POPUP_67: -6150330122646522958
+      MENU_SHOCKWAVE_POPUP_68: -6401887225926467834
+      MENU_SHOCKWAVE_POPUP_69: -258245218145255768
+      MENU_SHOCKWAVE_POPUP_7: -1185711469448061078
+      MENU_SHOCKWAVE_POPUP_70: -9110975356392786346
+      MENU_SHOCKWAVE_POPUP_71: -7847526577669452199
+      MENU_SHOCKWAVE_POPUP_72: 56727874886208547
+      MENU_SHOCKWAVE_POPUP_73: -7027456267236568437
+      MENU_SHOCKWAVE_POPUP_74: 8957394328157653325
+      MENU_SHOCKWAVE_POPUP_75: 45274933975036796
+      MENU_SHOCKWAVE_POPUP_76: -5265712359515607271
+      MENU_SHOCKWAVE_POPUP_77: -6448060919202360918
+      MENU_SHOCKWAVE_POPUP_78: -909721790089170192
+      MENU_SHOCKWAVE_POPUP_79: -4241943449891307203
+      MENU_SHOCKWAVE_POPUP_8: 5514285487303902075
+      MENU_SHOCKWAVE_POPUP_80: -8077909583988065382
+      MENU_SHOCKWAVE_POPUP_81: 4921366531382012231
+      MENU_SHOCKWAVE_POPUP_82: 6831316537487207916
+      MENU_SHOCKWAVE_POPUP_83: 7524072905348945179
+      MENU_SHOCKWAVE_POPUP_84: 3567773782236264493
+      MENU_SHOCKWAVE_POPUP_85: -3284121762988933558
+      MENU_SHOCKWAVE_POPUP_86: 6376565103827876315
+      MENU_SHOCKWAVE_POPUP_87: 2605808447623469301
+      MENU_SHOCKWAVE_POPUP_88: 7060664901839590554
+      MENU_SHOCKWAVE_POPUP_89: 3609032690505546425
+      MENU_SHOCKWAVE_POPUP_9: 7964712366550914709
+      MENU_SHOCKWAVE_POPUP_90: -2430702151356225876
+      MENU_SHOCKWAVE_POPUP_91: 7972447229756062441
+      MENU_SHOCKWAVE_POPUP_92: -5831189555923470705
+      MENU_SHOCKWAVE_POPUP_93: 4894095119841743602
+      MENU_SHOCKWAVE_POPUP_94: 7365582924524142903
+      MENU_SHOCKWAVE_POPUP_95: 3349593431796730480
+      MENU_SHOCKWAVE_POPUP_96: 5662701056675626094
+      MENU_SHOCKWAVE_POPUP_97: -565522868729500504
+      MENU_SHOCKWAVE_POPUP_98: -3533853091972488554
+      MENU_SHOCKWAVE_POPUP_99: 5745243997134617956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

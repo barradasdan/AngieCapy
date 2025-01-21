@@ -1,0 +1,5096 @@
+fileFormatVersion: 2
+guid: d23d4ffbe0e2440f19f71898d1586fc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -766240406548397464
+    second: Mobile - Angry Birds - Pre-Chrome Characters_0
+  - first:
+      213: -3779195787082710163
+    second: Mobile - Angry Birds - Pre-Chrome Characters_1
+  - first:
+      213: 3541534090913766213
+    second: Mobile - Angry Birds - Pre-Chrome Characters_2
+  - first:
+      213: 3775111717529227259
+    second: Mobile - Angry Birds - Pre-Chrome Characters_3
+  - first:
+      213: -4988435759961884702
+    second: Mobile - Angry Birds - Pre-Chrome Characters_4
+  - first:
+      213: 5590338358409723269
+    second: Mobile - Angry Birds - Pre-Chrome Characters_5
+  - first:
+      213: 9033722943457544715
+    second: Mobile - Angry Birds - Pre-Chrome Characters_6
+  - first:
+      213: -6612480006319381896
+    second: Mobile - Angry Birds - Pre-Chrome Characters_7
+  - first:
+      213: -3283054539593369786
+    second: Mobile - Angry Birds - Pre-Chrome Characters_8
+  - first:
+      213: -1343046445847104336
+    second: Mobile - Angry Birds - Pre-Chrome Characters_9
+  - first:
+      213: 4520688762809997427
+    second: Mobile - Angry Birds - Pre-Chrome Characters_10
+  - first:
+      213: -4061522525092594314
+    second: Mobile - Angry Birds - Pre-Chrome Characters_11
+  - first:
+      213: 6416334673404899528
+    second: Mobile - Angry Birds - Pre-Chrome Characters_12
+  - first:
+      213: -3042173906245936819
+    second: Mobile - Angry Birds - Pre-Chrome Characters_13
+  - first:
+      213: 8423733891211630785
+    second: Mobile - Angry Birds - Pre-Chrome Characters_14
+  - first:
+      213: -7172775701143841618
+    second: Mobile - Angry Birds - Pre-Chrome Characters_15
+  - first:
+      213: 7032674282173404659
+    second: Mobile - Angry Birds - Pre-Chrome Characters_16
+  - first:
+      213: 3810725907568933616
+    second: Mobile - Angry Birds - Pre-Chrome Characters_17
+  - first:
+      213: -6648991507822292244
+    second: Mobile - Angry Birds - Pre-Chrome Characters_18
+  - first:
+      213: 2050213189345401651
+    second: Mobile - Angry Birds - Pre-Chrome Characters_19
+  - first:
+      213: -5113277718199006007
+    second: Mobile - Angry Birds - Pre-Chrome Characters_20
+  - first:
+      213: 6900628693188238674
+    second: Mobile - Angry Birds - Pre-Chrome Characters_21
+  - first:
+      213: 308080654968442341
+    second: Mobile - Angry Birds - Pre-Chrome Characters_22
+  - first:
+      213: 5095495982879354764
+    second: Mobile - Angry Birds - Pre-Chrome Characters_23
+  - first:
+      213: 1115833414659537833
+    second: Mobile - Angry Birds - Pre-Chrome Characters_24
+  - first:
+      213: 323152734147704137
+    second: Mobile - Angry Birds - Pre-Chrome Characters_25
+  - first:
+      213: 6731041529807364336
+    second: Mobile - Angry Birds - Pre-Chrome Characters_26
+  - first:
+      213: -4691387771165864630
+    second: Mobile - Angry Birds - Pre-Chrome Characters_27
+  - first:
+      213: 4432747111272498981
+    second: Mobile - Angry Birds - Pre-Chrome Characters_28
+  - first:
+      213: -8057881186664697842
+    second: Mobile - Angry Birds - Pre-Chrome Characters_29
+  - first:
+      213: 7617982654733972662
+    second: Mobile - Angry Birds - Pre-Chrome Characters_30
+  - first:
+      213: 2421909664660394821
+    second: Mobile - Angry Birds - Pre-Chrome Characters_31
+  - first:
+      213: 6135403148977230741
+    second: Mobile - Angry Birds - Pre-Chrome Characters_32
+  - first:
+      213: 5083768081764507285
+    second: Mobile - Angry Birds - Pre-Chrome Characters_33
+  - first:
+      213: 7735455580013844609
+    second: Mobile - Angry Birds - Pre-Chrome Characters_34
+  - first:
+      213: -8180525395677653640
+    second: Mobile - Angry Birds - Pre-Chrome Characters_35
+  - first:
+      213: 375403677325769585
+    second: Mobile - Angry Birds - Pre-Chrome Characters_36
+  - first:
+      213: -1074067024815802621
+    second: Mobile - Angry Birds - Pre-Chrome Characters_37
+  - first:
+      213: 1249104995219767210
+    second: Mobile - Angry Birds - Pre-Chrome Characters_38
+  - first:
+      213: 4907478583373396476
+    second: Mobile - Angry Birds - Pre-Chrome Characters_39
+  - first:
+      213: -3064172296552841191
+    second: Mobile - Angry Birds - Pre-Chrome Characters_40
+  - first:
+      213: -1012180776142064109
+    second: Mobile - Angry Birds - Pre-Chrome Characters_41
+  - first:
+      213: 5363508981019713665
+    second: Mobile - Angry Birds - Pre-Chrome Characters_42
+  - first:
+      213: 9167119122348748990
+    second: Mobile - Angry Birds - Pre-Chrome Characters_43
+  - first:
+      213: -4789814234420484433
+    second: Mobile - Angry Birds - Pre-Chrome Characters_44
+  - first:
+      213: 7308567585837095900
+    second: Mobile - Angry Birds - Pre-Chrome Characters_45
+  - first:
+      213: 4434950373472506930
+    second: Mobile - Angry Birds - Pre-Chrome Characters_46
+  - first:
+      213: -6616057434931237493
+    second: Mobile - Angry Birds - Pre-Chrome Characters_47
+  - first:
+      213: -5482573622063510272
+    second: Mobile - Angry Birds - Pre-Chrome Characters_48
+  - first:
+      213: 3942117400938972109
+    second: Mobile - Angry Birds - Pre-Chrome Characters_49
+  - first:
+      213: 1834204604511420957
+    second: Mobile - Angry Birds - Pre-Chrome Characters_50
+  - first:
+      213: 754579697707076987
+    second: Mobile - Angry Birds - Pre-Chrome Characters_51
+  - first:
+      213: -5185742867313045601
+    second: Mobile - Angry Birds - Pre-Chrome Characters_52
+  - first:
+      213: -8578409080710714229
+    second: Mobile - Angry Birds - Pre-Chrome Characters_53
+  - first:
+      213: -5389206872115891371
+    second: Mobile - Angry Birds - Pre-Chrome Characters_54
+  - first:
+      213: -8056087786556758487
+    second: Mobile - Angry Birds - Pre-Chrome Characters_55
+  - first:
+      213: -352617903166150614
+    second: Mobile - Angry Birds - Pre-Chrome Characters_56
+  - first:
+      213: 5775744269995817289
+    second: Mobile - Angry Birds - Pre-Chrome Characters_57
+  - first:
+      213: 3186542617612375004
+    second: Mobile - Angry Birds - Pre-Chrome Characters_58
+  - first:
+      213: -2902188855182123802
+    second: Mobile - Angry Birds - Pre-Chrome Characters_59
+  - first:
+      213: 8539128565075133316
+    second: Mobile - Angry Birds - Pre-Chrome Characters_60
+  - first:
+      213: 6859631830048915731
+    second: Mobile - Angry Birds - Pre-Chrome Characters_61
+  - first:
+      213: 1459139025971703213
+    second: Mobile - Angry Birds - Pre-Chrome Characters_62
+  - first:
+      213: -8383428039135318713
+    second: Mobile - Angry Birds - Pre-Chrome Characters_63
+  - first:
+      213: -3782729807445457127
+    second: Mobile - Angry Birds - Pre-Chrome Characters_64
+  - first:
+      213: -964934963615487160
+    second: Mobile - Angry Birds - Pre-Chrome Characters_65
+  - first:
+      213: 1753828060313586997
+    second: Mobile - Angry Birds - Pre-Chrome Characters_66
+  - first:
+      213: -166243477827697053
+    second: Mobile - Angry Birds - Pre-Chrome Characters_67
+  - first:
+      213: 5280752246559514151
+    second: Mobile - Angry Birds - Pre-Chrome Characters_68
+  - first:
+      213: -4886871538612977459
+    second: Mobile - Angry Birds - Pre-Chrome Characters_69
+  - first:
+      213: -3052311029496906890
+    second: Mobile - Angry Birds - Pre-Chrome Characters_70
+  - first:
+      213: 1233123369026794205
+    second: Mobile - Angry Birds - Pre-Chrome Characters_71
+  - first:
+      213: -6221604713480565707
+    second: Mobile - Angry Birds - Pre-Chrome Characters_72
+  - first:
+      213: 1660446298648973789
+    second: Mobile - Angry Birds - Pre-Chrome Characters_73
+  - first:
+      213: 7772161309678391147
+    second: Mobile - Angry Birds - Pre-Chrome Characters_74
+  - first:
+      213: -4480043481994516253
+    second: Mobile - Angry Birds - Pre-Chrome Characters_75
+  - first:
+      213: 769257665860576760
+    second: Mobile - Angry Birds - Pre-Chrome Characters_76
+  - first:
+      213: 2552061650745042033
+    second: Mobile - Angry Birds - Pre-Chrome Characters_77
+  - first:
+      213: -722207285361456260
+    second: Mobile - Angry Birds - Pre-Chrome Characters_78
+  - first:
+      213: -5121720986537672843
+    second: Mobile - Angry Birds - Pre-Chrome Characters_79
+  - first:
+      213: 6041674705527658710
+    second: Mobile - Angry Birds - Pre-Chrome Characters_80
+  - first:
+      213: 742408143519490230
+    second: Mobile - Angry Birds - Pre-Chrome Characters_81
+  - first:
+      213: -6303428707741643922
+    second: Mobile - Angry Birds - Pre-Chrome Characters_82
+  - first:
+      213: 8697167059763620525
+    second: Mobile - Angry Birds - Pre-Chrome Characters_83
+  - first:
+      213: -164688510393055952
+    second: Mobile - Angry Birds - Pre-Chrome Characters_84
+  - first:
+      213: 192705517515754846
+    second: Mobile - Angry Birds - Pre-Chrome Characters_85
+  - first:
+      213: 5956269681022083013
+    second: Mobile - Angry Birds - Pre-Chrome Characters_86
+  - first:
+      213: 276815268408504546
+    second: Mobile - Angry Birds - Pre-Chrome Characters_87
+  - first:
+      213: 602612964013152573
+    second: Mobile - Angry Birds - Pre-Chrome Characters_88
+  - first:
+      213: 3407473474590316348
+    second: Mobile - Angry Birds - Pre-Chrome Characters_89
+  - first:
+      213: 3310207404792047218
+    second: Mobile - Angry Birds - Pre-Chrome Characters_90
+  - first:
+      213: 2034954883218272928
+    second: Mobile - Angry Birds - Pre-Chrome Characters_91
+  - first:
+      213: 1928147227851760627
+    second: Mobile - Angry Birds - Pre-Chrome Characters_92
+  - first:
+      213: -7983022604681879963
+    second: Mobile - Angry Birds - Pre-Chrome Characters_93
+  - first:
+      213: 4395928975211427597
+    second: Mobile - Angry Birds - Pre-Chrome Characters_94
+  - first:
+      213: -4790252707247095080
+    second: Mobile - Angry Birds - Pre-Chrome Characters_95
+  - first:
+      213: 4713157280338940254
+    second: Mobile - Angry Birds - Pre-Chrome Characters_96
+  - first:
+      213: -3123693981292031296
+    second: Mobile - Angry Birds - Pre-Chrome Characters_97
+  - first:
+      213: 2325000052295557544
+    second: Mobile - Angry Birds - Pre-Chrome Characters_98
+  - first:
+      213: -4766843190743715177
+    second: Mobile - Angry Birds - Pre-Chrome Characters_99
+  - first:
+      213: 2261453750059260079
+    second: Mobile - Angry Birds - Pre-Chrome Characters_100
+  - first:
+      213: 4365445491044107532
+    second: Mobile - Angry Birds - Pre-Chrome Characters_101
+  - first:
+      213: -7504913370926939334
+    second: Mobile - Angry Birds - Pre-Chrome Characters_102
+  - first:
+      213: -7586715232117041506
+    second: Mobile - Angry Birds - Pre-Chrome Characters_103
+  - first:
+      213: -1720037801102970257
+    second: Mobile - Angry Birds - Pre-Chrome Characters_104
+  - first:
+      213: 9029357224692830229
+    second: Mobile - Angry Birds - Pre-Chrome Characters_105
+  - first:
+      213: -5168122177679462006
+    second: Mobile - Angry Birds - Pre-Chrome Characters_106
+  - first:
+      213: -7212177694488083341
+    second: Mobile - Angry Birds - Pre-Chrome Characters_107
+  - first:
+      213: 245512682994220464
+    second: Mobile - Angry Birds - Pre-Chrome Characters_108
+  - first:
+      213: -4731025716250656716
+    second: Mobile - Angry Birds - Pre-Chrome Characters_109
+  - first:
+      213: -3175270027390660967
+    second: Mobile - Angry Birds - Pre-Chrome Characters_110
+  - first:
+      213: 2926816598797066998
+    second: Mobile - Angry Birds - Pre-Chrome Characters_111
+  - first:
+      213: -2462027549951775192
+    second: Mobile - Angry Birds - Pre-Chrome Characters_112
+  - first:
+      213: 2497455916938090032
+    second: Mobile - Angry Birds - Pre-Chrome Characters_113
+  - first:
+      213: -5863279950598228913
+    second: Mobile - Angry Birds - Pre-Chrome Characters_114
+  - first:
+      213: -2269851361243865442
+    second: Mobile - Angry Birds - Pre-Chrome Characters_115
+  - first:
+      213: -239838825858356151
+    second: Mobile - Angry Birds - Pre-Chrome Characters_116
+  - first:
+      213: 1194322477384871308
+    second: Mobile - Angry Birds - Pre-Chrome Characters_117
+  - first:
+      213: -8848333499129424791
+    second: Mobile - Angry Birds - Pre-Chrome Characters_118
+  - first:
+      213: -7757661253316439328
+    second: Mobile - Angry Birds - Pre-Chrome Characters_119
+  - first:
+      213: 8007201981853609446
+    second: Mobile - Angry Birds - Pre-Chrome Characters_120
+  - first:
+      213: -1284675542082045732
+    second: Mobile - Angry Birds - Pre-Chrome Characters_121
+  - first:
+      213: -6074180426616765033
+    second: Mobile - Angry Birds - Pre-Chrome Characters_122
+  - first:
+      213: -8003827499425592163
+    second: Mobile - Angry Birds - Pre-Chrome Characters_123
+  - first:
+      213: 2131032286709749128
+    second: Mobile - Angry Birds - Pre-Chrome Characters_124
+  - first:
+      213: -428873050232740668
+    second: Mobile - Angry Birds - Pre-Chrome Characters_125
+  - first:
+      213: 7778062244918943894
+    second: Mobile - Angry Birds - Pre-Chrome Characters_126
+  - first:
+      213: 7826107220256981508
+    second: Mobile - Angry Birds - Pre-Chrome Characters_127
+  - first:
+      213: 4008342340554834137
+    second: Mobile - Angry Birds - Pre-Chrome Characters_128
+  - first:
+      213: 37547852442559568
+    second: Mobile - Angry Birds - Pre-Chrome Characters_129
+  - first:
+      213: -5318770594053990559
+    second: Mobile - Angry Birds - Pre-Chrome Characters_130
+  - first:
+      213: 1738495103941246812
+    second: Mobile - Angry Birds - Pre-Chrome Characters_131
+  - first:
+      213: -7123094419797670949
+    second: Mobile - Angry Birds - Pre-Chrome Characters_132
+  - first:
+      213: 7993543512975754236
+    second: Mobile - Angry Birds - Pre-Chrome Characters_133
+  - first:
+      213: -5802953025238550777
+    second: Mobile - Angry Birds - Pre-Chrome Characters_134
+  - first:
+      213: 3043623855793919183
+    second: Mobile - Angry Birds - Pre-Chrome Characters_135
+  - first:
+      213: -1783136651114728305
+    second: Mobile - Angry Birds - Pre-Chrome Characters_136
+  - first:
+      213: -6854859999672531595
+    second: Mobile - Angry Birds - Pre-Chrome Characters_137
+  - first:
+      213: 1321446756670094686
+    second: Mobile - Angry Birds - Pre-Chrome Characters_138
+  - first:
+      213: 7670567678054653144
+    second: Mobile - Angry Birds - Pre-Chrome Characters_139
+  - first:
+      213: -3104593047332014125
+    second: Mobile - Angry Birds - Pre-Chrome Characters_140
+  - first:
+      213: 4126313063166608788
+    second: Mobile - Angry Birds - Pre-Chrome Characters_141
+  - first:
+      213: -5882269803081144941
+    second: Mobile - Angry Birds - Pre-Chrome Characters_142
+  - first:
+      213: -7546037567199070074
+    second: Mobile - Angry Birds - Pre-Chrome Characters_143
+  - first:
+      213: -6479667317009242161
+    second: Mobile - Angry Birds - Pre-Chrome Characters_144
+  - first:
+      213: 2660714963364681133
+    second: Mobile - Angry Birds - Pre-Chrome Characters_145
+  - first:
+      213: -7908861659411896637
+    second: Mobile - Angry Birds - Pre-Chrome Characters_146
+  - first:
+      213: 2979958179329592266
+    second: Mobile - Angry Birds - Pre-Chrome Characters_147
+  - first:
+      213: 6128202001079803886
+    second: Mobile - Angry Birds - Pre-Chrome Characters_148
+  - first:
+      213: 2713140741511388875
+    second: Mobile - Angry Birds - Pre-Chrome Characters_149
+  - first:
+      213: 1512749657641295588
+    second: Mobile - Angry Birds - Pre-Chrome Characters_150
+  - first:
+      213: -4125092198486845230
+    second: Mobile - Angry Birds - Pre-Chrome Characters_151
+  - first:
+      213: 497315114895184161
+    second: Mobile - Angry Birds - Pre-Chrome Characters_152
+  - first:
+      213: -3215280634989159021
+    second: Mobile - Angry Birds - Pre-Chrome Characters_153
+  - first:
+      213: -6634006527779352766
+    second: Mobile - Angry Birds - Pre-Chrome Characters_154
+  - first:
+      213: -1225710396399043967
+    second: Mobile - Angry Birds - Pre-Chrome Characters_155
+  - first:
+      213: -7802435159130882436
+    second: Mobile - Angry Birds - Pre-Chrome Characters_156
+  - first:
+      213: -4576278662615577577
+    second: Mobile - Angry Birds - Pre-Chrome Characters_157
+  - first:
+      213: 3097522481375894582
+    second: Mobile - Angry Birds - Pre-Chrome Characters_158
+  - first:
+      213: -6747610655597116366
+    second: Mobile - Angry Birds - Pre-Chrome Characters_159
+  - first:
+      213: 395014098408685900
+    second: Mobile - Angry Birds - Pre-Chrome Characters_160
+  - first:
+      213: 3047707722634600247
+    second: Mobile - Angry Birds - Pre-Chrome Characters_161
+  - first:
+      213: 5635783478036197881
+    second: Mobile - Angry Birds - Pre-Chrome Characters_162
+  - first:
+      213: -8120861130852093063
+    second: Mobile - Angry Birds - Pre-Chrome Characters_163
+  - first:
+      213: 5116409929489272233
+    second: Mobile - Angry Birds - Pre-Chrome Characters_164
+  - first:
+      213: 1971917668829465702
+    second: Mobile - Angry Birds - Pre-Chrome Characters_165
+  - first:
+      213: 3443462015049883265
+    second: Mobile - Angry Birds - Pre-Chrome Characters_166
+  - first:
+      213: 5962728661628244933
+    second: Mobile - Angry Birds - Pre-Chrome Characters_167
+  - first:
+      213: 8390832331960387425
+    second: Mobile - Angry Birds - Pre-Chrome Characters_168
+  - first:
+      213: 1250518381478926267
+    second: Mobile - Angry Birds - Pre-Chrome Characters_169
+  - first:
+      213: -9127054959385161051
+    second: Mobile - Angry Birds - Pre-Chrome Characters_170
+  - first:
+      213: -6359305561040434712
+    second: Mobile - Angry Birds - Pre-Chrome Characters_171
+  - first:
+      213: -3705653595951172970
+    second: Mobile - Angry Birds - Pre-Chrome Characters_172
+  - first:
+      213: -358740070107689017
+    second: Mobile - Angry Birds - Pre-Chrome Characters_173
+  - first:
+      213: 3650405323836532215
+    second: Mobile - Angry Birds - Pre-Chrome Characters_174
+  - first:
+      213: 7600832023028642566
+    second: Mobile - Angry Birds - Pre-Chrome Characters_175
+  - first:
+      213: -3683563431218776198
+    second: Mobile - Angry Birds - Pre-Chrome Characters_176
+  - first:
+      213: 8610601528699336841
+    second: Mobile - Angry Birds - Pre-Chrome Characters_177
+  - first:
+      213: 4863832673927349614
+    second: Mobile - Angry Birds - Pre-Chrome Characters_178
+  - first:
+      213: 8606795823076238979
+    second: Mobile - Angry Birds - Pre-Chrome Characters_179
+  - first:
+      213: -4906197220219879274
+    second: Mobile - Angry Birds - Pre-Chrome Characters_180
+  - first:
+      213: 6203157255104899896
+    second: Mobile - Angry Birds - Pre-Chrome Characters_181
+  - first:
+      213: -1131802484396026386
+    second: Mobile - Angry Birds - Pre-Chrome Characters_182
+  - first:
+      213: 937195079637479585
+    second: Mobile - Angry Birds - Pre-Chrome Characters_183
+  - first:
+      213: -1506913443144293515
+    second: Mobile - Angry Birds - Pre-Chrome Characters_184
+  - first:
+      213: -931763480784680447
+    second: Mobile - Angry Birds - Pre-Chrome Characters_185
+  - first:
+      213: -8355654348732051373
+    second: Mobile - Angry Birds - Pre-Chrome Characters_186
+  - first:
+      213: 5793067615846099081
+    second: Mobile - Angry Birds - Pre-Chrome Characters_187
+  - first:
+      213: -4569485796386893609
+    second: Mobile - Angry Birds - Pre-Chrome Characters_188
+  - first:
+      213: 1740519654698852535
+    second: Mobile - Angry Birds - Pre-Chrome Characters_189
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 769
+        width: 36
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862c123f864cd55f0800000000000000
+      internalID: -766240406548397464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 813
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63484664799d8bc0800000000000000
+      internalID: -3779195787082710163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 813
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd9d8ed7e062130800000000000000
+      internalID: 3541534090913766213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 813
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff8ebe0b14e36430800000000000000
+      internalID: 3775111717529227259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 813
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7bd9e2b1485cab0800000000000000
+      internalID: -4988435759961884702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_5
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 950
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d704b3e1fd49d40800000000000000
+      internalID: 5590338358409723269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_6
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 916
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a4514872b3e5d70800000000000000
+      internalID: 9033722943457544715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 844
+        width: 42
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e5faf770cb34a0800000000000000
+      internalID: -6612480006319381896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_8
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 919
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647bd456a4f3072d0800000000000000
+      internalID: -3283054539593369786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_9
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 927
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4be6e8f5a8c5de0800000000000000
+      internalID: -1343046445847104336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_10
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 658
+        width: 328
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d3676a76bcbe30800000000000000
+      internalID: 4520688762809997427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 958
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dbb9448c292a7c0800000000000000
+      internalID: -4061522525092594314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_12
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 954
+        width: 120
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c03258e3666b0950800000000000000
+      internalID: 6416334673404899528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_13
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 956
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d499f3d43f608c5d0800000000000000
+      internalID: -3042173906245936819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_14
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 962
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8961cd75d17e470800000000000000
+      internalID: 8423733891211630785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_15
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 946
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea494c7b08e257c90800000000000000
+      internalID: -7172775701143841618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_16
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 912
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f598f9bff3199160800000000000000
+      internalID: 7032674282173404659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 942
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa3609d50b62e430800000000000000
+      internalID: 3810725907568933616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_18
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 938
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2d9a593790ab3a0800000000000000
+      internalID: -6648991507822292244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_19
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 875
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bd0c08802d37c10800000000000000
+      internalID: 2050213189345401651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_20
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 889
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc04d0b10df909b0800000000000000
+      internalID: -5113277718199006007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_21
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 871
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d5a504c35f3cf50800000000000000
+      internalID: 6900628693188238674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_22
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 837
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed409139b5864400800000000000000
+      internalID: 308080654968442341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_23
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 876
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f24fd6996d6b640800000000000000
+      internalID: 5095495982879354764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_24
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 843
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abfa45249c3c7f00800000000000000
+      internalID: 1115833414659537833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_25
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 886
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945f11713b11c7400800000000000000
+      internalID: 323152734147704137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_26
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 898
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0e198db96796d50800000000000000
+      internalID: 6731041529807364336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_27
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 883
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0c0c9da7d4eeb0800000000000000
+      internalID: -4691387771165864630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_28
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 843
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52749821308448d30800000000000000
+      internalID: 4432747111272498981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_29
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 829
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e003c82d0c7ac2090800000000000000
+      internalID: -8057881186664697842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 845
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b47188dcd288b960800000000000000
+      internalID: 7617982654733972662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_31
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 851
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5431b28120a5c9120800000000000000
+      internalID: 2421909664660394821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_32
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 842
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593d99048a4552550800000000000000
+      internalID: 6135403148977230741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_33
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 815
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eda0aa22c2d8640800000000000000
+      internalID: 5083768081764507285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 658
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188d986addbd95b60800000000000000
+      internalID: 7735455580013844609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 790
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8755292be7fe87e80800000000000000
+      internalID: -8180525395677653640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_36
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 797
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bb062d7a3b53500800000000000000
+      internalID: 375403677325769585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 711
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307b4e84bb52811f0800000000000000
+      internalID: -1074067024815802621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 712
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf7d370066b55110800000000000000
+      internalID: 1249104995219767210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_39
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 712
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9fec845cdda1440800000000000000
+      internalID: 4907478583373396476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_40
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 713
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910006de78fd975d0800000000000000
+      internalID: -3064172296552841191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_41
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 714
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316b29562f204f1f0800000000000000
+      internalID: -1012180776142064109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_42
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 714
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1802c4b40030f6a40800000000000000
+      internalID: 5363508981019713665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_43
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 717
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0b945b546283f70800000000000000
+      internalID: 9167119122348748990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e141d459278db0800000000000000
+      internalID: -4789814234420484433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 732
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb11c23f7f3d6560800000000000000
+      internalID: 7308567585837095900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 731
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23490570edb1c8d30800000000000000
+      internalID: 4434950373472506930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 743
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d6759f0da0f24a0800000000000000
+      internalID: -6616057434931237493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4af1b65cf9e3b0800000000000000
+      internalID: -5482573622063510272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 704
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc38ad1d3e635b630800000000000000
+      internalID: 3942117400938972109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 703
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d120a49ae57647910800000000000000
+      internalID: 1834204604511420957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 690
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d4d84bc3ec87a00800000000000000
+      internalID: 754579697707076987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 612
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f4a41665a8808b0800000000000000
+      internalID: -5185742867313045601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 616
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca046346e53f880800000000000000
+      internalID: -8578409080710714229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_54
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 616
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553307e27e0b535b0800000000000000
+      internalID: -5389206872115891371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_55
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 616
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ebe257d6033090800000000000000
+      internalID: -8056087786556758487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_56
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 616
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28a654a2ef3b1bf0800000000000000
+      internalID: -352617903166150614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_57
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 616
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9493996ffc0972050800000000000000
+      internalID: 5775744269995817289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_58
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 616
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3dd60b0afd83c20800000000000000
+      internalID: 3186542617612375004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec95c7dc9a59b7d0800000000000000
+      internalID: -2902188855182123802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 659
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483c1bc0034118670800000000000000
+      internalID: 8539128565075133316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 659
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31147083ece423f50800000000000000
+      internalID: 6859631830048915731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 568
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dade3f89637ef3410800000000000000
+      internalID: 1459139025971703213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_63
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 682
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d2a4f9d9418ab80800000000000000
+      internalID: -8383428039135318713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_64
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 679
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9178ee9284b018bc0800000000000000
+      internalID: -3782729807445457127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_65
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b285653ccdb92f0800000000000000
+      internalID: -964934963615487160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_66
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 666
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d8a142459d65810800000000000000
+      internalID: 1753828060313586997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366cadd007261bdf0800000000000000
+      internalID: -166243477827697053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 627
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e960b8030094940800000000000000
+      internalID: 5280752246559514151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_69
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 627
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0c1063a385e2cb0800000000000000
+      internalID: -4886871538612977459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 503
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b74de5a4304a5d0800000000000000
+      internalID: -3052311029496906890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_71
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 502
+        width: 377
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd23317bb2fec1110800000000000000
+      internalID: 1233123369026794205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c48100a7b68a9a0800000000000000
+      internalID: -6221604713480565707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd195977c171b0710800000000000000
+      internalID: 1660446298648973789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_74
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 513
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f4a6058834cdb60800000000000000
+      internalID: 7772161309678391147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 521
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8a96d7030b3d1c0800000000000000
+      internalID: -4480043481994516253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 523
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ad5a75c3fcaa00800000000000000
+      internalID: 769257665860576760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_77
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 524
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1742e89cc8eba6320800000000000000
+      internalID: 2552061650745042033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 524
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bc4d5ec443af5f0800000000000000
+      internalID: -722207285361456260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_79
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 530
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f32c616edfbe8b0800000000000000
+      internalID: -5121720986537672843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_80
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 530
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8507f622758d350800000000000000
+      internalID: 6041674705527658710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_81
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 530
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b026d8e5409d4a00800000000000000
+      internalID: 742408143519490230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b4f00ccf8b588a0800000000000000
+      internalID: -6303428707741643922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa607d7c5b82b870800000000000000
+      internalID: 8697167059763620525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 494
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0350f6f1ca8e6bdf0800000000000000
+      internalID: -164688510393055952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_85
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 499
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dc8cda5a0aca200800000000000000
+      internalID: 192705517515754846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_86
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 455
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf10cb97bbe8a250800000000000000
+      internalID: 5956269681022083013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0b4ed150277d300800000000000000
+      internalID: 276815268408504546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_88
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 464
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399c094c49ec5800800000000000000
+      internalID: 602612964013152573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 348
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3795825217c94f20800000000000000
+      internalID: 3407473474590316348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_90
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 414
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2766f7fa81830fd20800000000000000
+      internalID: 3310207404792047218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_91
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 426
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2fb244fac9d3c10800000000000000
+      internalID: 2034954883218272928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_92
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 438
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f322ce10b722ca10800000000000000
+      internalID: 1928147227851760627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_93
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 440
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ed506ac3b963190800000000000000
+      internalID: -7983022604681879963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_94
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 440
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07f251cc1a710d30800000000000000
+      internalID: 4395928975211427597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_95
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 440
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d20f28ea8a958db0800000000000000
+      internalID: -4790252707247095080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_96
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 440
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e511629339f786140800000000000000
+      internalID: 4713157280338940254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_97
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 442
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c21012cfd866a4d0800000000000000
+      internalID: -3123693981292031296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_98
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 444
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a167dbaa3f044020800000000000000
+      internalID: 2325000052295557544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7923bb3bf55c8ddb0800000000000000
+      internalID: -4766843190743715177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8d148343c426f10800000000000000
+      internalID: 2261453750059260079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_101
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 343
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05c3048b8d259c30800000000000000
+      internalID: 4365445491044107532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_102
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 353
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3302d74d0139d790800000000000000
+      internalID: -7504913370926939334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_103
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 361
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e965e9941b296b690800000000000000
+      internalID: -7586715232117041506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_104
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 364
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f627309abb23128e0800000000000000
+      internalID: -1720037801102970257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_105
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 364
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5105ce76e88be4d70800000000000000
+      internalID: 9029357224692830229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_106
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 366
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81f893e2442748b0800000000000000
+      internalID: -5168122177679462006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_107
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 366
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374ca0f399239eb90800000000000000
+      internalID: -7212177694488083341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd39b10c7c386300800000000000000
+      internalID: 245512682994220464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43044a75d25085eb0800000000000000
+      internalID: -4731025716250656716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_110
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 343
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e4f6fbbbc2fe3d0800000000000000
+      internalID: -3175270027390660967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_111
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 315
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2240e80342e9820800000000000000
+      internalID: 2926816598797066998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_112
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 331
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e26e9dcfe15ddd0800000000000000
+      internalID: -2462027549951775192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036da43aceeb8a220800000000000000
+      internalID: 2497455916938090032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f443ced23f171aea0800000000000000
+      internalID: -5863279950598228913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_115
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 315
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5f10963edf70e0800000000000000
+      internalID: -2269851361243865442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_116
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 315
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cad5dcbdbebacf0800000000000000
+      internalID: -239838825858356151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_117
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 291
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2ac327f5139010800000000000000
+      internalID: 1194322477384871308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_118
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 193
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96493322097643580800000000000000
+      internalID: -8848333499129424791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_119
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 241
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e213442130475490800000000000000
+      internalID: -7757661253316439328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_120
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 217
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed203d47cb4f1f60800000000000000
+      internalID: 8007201981853609446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_121
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 244
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd83196a66aeb2ee0800000000000000
+      internalID: -1284675542082045732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_122
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 268
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79580e9951d24bba0800000000000000
+      internalID: -6074180426616765033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_123
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 282
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c0c3d9b41bce090800000000000000
+      internalID: -8003827499425592163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_124
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 290
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8851936f292f29d10800000000000000
+      internalID: 2131032286709749128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_125
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 290
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a32bab365c0af0800000000000000
+      internalID: -428873050232740668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_126
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 291
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690654dd66a31fb60800000000000000
+      internalID: 7778062244918943894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40289856d0beb9c60800000000000000
+      internalID: 7826107220256981508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0cde22f1e70a730800000000000000
+      internalID: 4008342340554834137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_129
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 183
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054eae6a295658000800000000000000
+      internalID: 37547852442559568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_130
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 206
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1675e93235eef26b0800000000000000
+      internalID: -5318770594053990559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_131
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 217
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f7c2a0610602810800000000000000
+      internalID: 1738495103941246812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_132
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 225
+        width: 137
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3846e6d5fa52d90800000000000000
+      internalID: -7123094419797670949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_133
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 226
+        width: 137
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf34c833975ceee60800000000000000
+      internalID: 7993543512975754236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b06a08f4c77fa0800000000000000
+      internalID: -5802953025238550777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_135
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 243
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4508265cf1d3a20800000000000000
+      internalID: 3043623855793919183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_136
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 161
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b35cc9a60147e0800000000000000
+      internalID: -1783136651114728305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750c7e1625aed0a0800000000000000
+      internalID: -6854859999672531595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_138
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 219
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5db9e8e2d8b65210800000000000000
+      internalID: 1321446756670094686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 139
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc5a0ca9a4537a60800000000000000
+      internalID: 7670567678054653144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_140
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 169
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7b0a182154ae4d0800000000000000
+      internalID: -3104593047332014125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_141
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 170
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495891a6edb934930800000000000000
+      internalID: 4126313063166608788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_142
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 171
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395675a97cafd5ea0800000000000000
+      internalID: -5882269803081144941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_143
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 177
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688b85130d6174790800000000000000
+      internalID: -7546037567199070074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_144
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 178
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7a4fae7e89316a0800000000000000
+      internalID: -6479667317009242161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51bef7922cce420800000000000000
+      internalID: 2660714963364681133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_146
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 202
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c62c0549341e3290800000000000000
+      internalID: -7908861659411896637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_147
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 120
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbc574fc20fa5920800000000000000
+      internalID: 2979958179329592266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_148
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 130
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef133a504fbb0550800000000000000
+      internalID: 6128202001079803886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_149
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 150
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce1d6b212307a520800000000000000
+      internalID: 2713140741511388875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee9dc97ccd5ef410800000000000000
+      internalID: 1512749657641295588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_151
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 186
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8d47b408ab0c6c0800000000000000
+      internalID: -4125092198486845230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12192cc4671d6e600800000000000000
+      internalID: 497315114895184161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d574a3c470163d0800000000000000
+      internalID: -3215280634989159021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 171
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fc61226364fe3a0800000000000000
+      internalID: -6634006527779352766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_155
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 98
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ab12973e66dfee0800000000000000
+      internalID: -1225710396399043967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_156
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 124
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e3cf4df8e28b390800000000000000
+      internalID: -7802435159130882436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_157
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 124
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c49917dcacd70c0800000000000000
+      internalID: -4576278662615577577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_158
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 124
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5232194c9cfa20800000000000000
+      internalID: 3097522481375894582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_159
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 125
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2344e7eebdbab52a0800000000000000
+      internalID: -6747610655597116366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41cbe8ca3f5b7500800000000000000
+      internalID: 395014098408685900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f99dab602ab4a20800000000000000
+      internalID: 3047707722634600247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_162
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1fc5fa633563e40800000000000000
+      internalID: 5635783478036197881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_163
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 157
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b841e3d7ec4f80800000000000000
+      internalID: -8120861130852093063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_164
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 146
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad4d7419b3210740800000000000000
+      internalID: 5116409929489272233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_165
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 78
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c85e01ca8ad5b10800000000000000
+      internalID: 1971917668829465702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_166
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 113
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e599c5572a9cf20800000000000000
+      internalID: 3443462015049883265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_167
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 122
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c35468302edfb250800000000000000
+      internalID: 5962728661628244933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1678c54ac89327470800000000000000
+      internalID: 8390832331960387425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d529a7dbba5110800000000000000
+      internalID: 1250518381478926267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_170
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 36
+        width: 111
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a251642fdf265180800000000000000
+      internalID: -9127054959385161051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_171
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 90
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c40809453fb7a0800000000000000
+      internalID: -6359305561040434712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6927ea810bfd29cc0800000000000000
+      internalID: -3705653595951172970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_173
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf48829ecf750bf0800000000000000
+      internalID: -358740070107689017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_174
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 25
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5a8752d48d8a230800000000000000
+      internalID: 3650405323836532215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_175
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 54
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603390a34749b7960800000000000000
+      internalID: 7600832023028642566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_176
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 65
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77f59e539a51ecc0800000000000000
+      internalID: -3683563431218776198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_177
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 74
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883f8c28700f7770800000000000000
+      internalID: 8610601528699336841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_178
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 77
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65c0681c0ecf7340800000000000000
+      internalID: 4863832673927349614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_179
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 78
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38666c8433b717770800000000000000
+      internalID: 8606795823076238979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_180
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 80
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69009c25f9fa9ebb0800000000000000
+      internalID: -4906197220219879274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_181
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b2a6468aa061650800000000000000
+      internalID: 6203157255104899896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_182
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 13
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee59ba113a70b40f0800000000000000
+      internalID: -1131802484396026386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_183
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0390f95f5910d00800000000000000
+      internalID: 937195079637479585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_184
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 34
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573af1a153e561be0800000000000000
+      internalID: -1506913443144293515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_185
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 17
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ac5290d06b113f0800000000000000
+      internalID: -931763480784680447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_186
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 26
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d0e5d3a0ca0c80800000000000000
+      internalID: -8355654348732051373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_187
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 30
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988635abd4c156050800000000000000
+      internalID: 5793067615846099081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_188
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 34
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09a2cd0ece590c0800000000000000
+      internalID: -4569485796386893609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Pre-Chrome Characters_189
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 41
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b029ee7761972810800000000000000
+      internalID: 1740519654698852535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e767dcc01c78f49f58a2d04c5f3bfdce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Angry Birds - Pre-Chrome Characters_0: -766240406548397464
+      Mobile - Angry Birds - Pre-Chrome Characters_1: -3779195787082710163
+      Mobile - Angry Birds - Pre-Chrome Characters_10: 4520688762809997427
+      Mobile - Angry Birds - Pre-Chrome Characters_100: 2261453750059260079
+      Mobile - Angry Birds - Pre-Chrome Characters_101: 4365445491044107532
+      Mobile - Angry Birds - Pre-Chrome Characters_102: -7504913370926939334
+      Mobile - Angry Birds - Pre-Chrome Characters_103: -7586715232117041506
+      Mobile - Angry Birds - Pre-Chrome Characters_104: -1720037801102970257
+      Mobile - Angry Birds - Pre-Chrome Characters_105: 9029357224692830229
+      Mobile - Angry Birds - Pre-Chrome Characters_106: -5168122177679462006
+      Mobile - Angry Birds - Pre-Chrome Characters_107: -7212177694488083341
+      Mobile - Angry Birds - Pre-Chrome Characters_108: 245512682994220464
+      Mobile - Angry Birds - Pre-Chrome Characters_109: -4731025716250656716
+      Mobile - Angry Birds - Pre-Chrome Characters_11: -4061522525092594314
+      Mobile - Angry Birds - Pre-Chrome Characters_110: -3175270027390660967
+      Mobile - Angry Birds - Pre-Chrome Characters_111: 2926816598797066998
+      Mobile - Angry Birds - Pre-Chrome Characters_112: -2462027549951775192
+      Mobile - Angry Birds - Pre-Chrome Characters_113: 2497455916938090032
+      Mobile - Angry Birds - Pre-Chrome Characters_114: -5863279950598228913
+      Mobile - Angry Birds - Pre-Chrome Characters_115: -2269851361243865442
+      Mobile - Angry Birds - Pre-Chrome Characters_116: -239838825858356151
+      Mobile - Angry Birds - Pre-Chrome Characters_117: 1194322477384871308
+      Mobile - Angry Birds - Pre-Chrome Characters_118: -8848333499129424791
+      Mobile - Angry Birds - Pre-Chrome Characters_119: -7757661253316439328
+      Mobile - Angry Birds - Pre-Chrome Characters_12: 6416334673404899528
+      Mobile - Angry Birds - Pre-Chrome Characters_120: 8007201981853609446
+      Mobile - Angry Birds - Pre-Chrome Characters_121: -1284675542082045732
+      Mobile - Angry Birds - Pre-Chrome Characters_122: -6074180426616765033
+      Mobile - Angry Birds - Pre-Chrome Characters_123: -8003827499425592163
+      Mobile - Angry Birds - Pre-Chrome Characters_124: 2131032286709749128
+      Mobile - Angry Birds - Pre-Chrome Characters_125: -428873050232740668
+      Mobile - Angry Birds - Pre-Chrome Characters_126: 7778062244918943894
+      Mobile - Angry Birds - Pre-Chrome Characters_127: 7826107220256981508
+      Mobile - Angry Birds - Pre-Chrome Characters_128: 4008342340554834137
+      Mobile - Angry Birds - Pre-Chrome Characters_129: 37547852442559568
+      Mobile - Angry Birds - Pre-Chrome Characters_13: -3042173906245936819
+      Mobile - Angry Birds - Pre-Chrome Characters_130: -5318770594053990559
+      Mobile - Angry Birds - Pre-Chrome Characters_131: 1738495103941246812
+      Mobile - Angry Birds - Pre-Chrome Characters_132: -7123094419797670949
+      Mobile - Angry Birds - Pre-Chrome Characters_133: 7993543512975754236
+      Mobile - Angry Birds - Pre-Chrome Characters_134: -5802953025238550777
+      Mobile - Angry Birds - Pre-Chrome Characters_135: 3043623855793919183
+      Mobile - Angry Birds - Pre-Chrome Characters_136: -1783136651114728305
+      Mobile - Angry Birds - Pre-Chrome Characters_137: -6854859999672531595
+      Mobile - Angry Birds - Pre-Chrome Characters_138: 1321446756670094686
+      Mobile - Angry Birds - Pre-Chrome Characters_139: 7670567678054653144
+      Mobile - Angry Birds - Pre-Chrome Characters_14: 8423733891211630785
+      Mobile - Angry Birds - Pre-Chrome Characters_140: -3104593047332014125
+      Mobile - Angry Birds - Pre-Chrome Characters_141: 4126313063166608788
+      Mobile - Angry Birds - Pre-Chrome Characters_142: -5882269803081144941
+      Mobile - Angry Birds - Pre-Chrome Characters_143: -7546037567199070074
+      Mobile - Angry Birds - Pre-Chrome Characters_144: -6479667317009242161
+      Mobile - Angry Birds - Pre-Chrome Characters_145: 2660714963364681133
+      Mobile - Angry Birds - Pre-Chrome Characters_146: -7908861659411896637
+      Mobile - Angry Birds - Pre-Chrome Characters_147: 2979958179329592266
+      Mobile - Angry Birds - Pre-Chrome Characters_148: 6128202001079803886
+      Mobile - Angry Birds - Pre-Chrome Characters_149: 2713140741511388875
+      Mobile - Angry Birds - Pre-Chrome Characters_15: -7172775701143841618
+      Mobile - Angry Birds - Pre-Chrome Characters_150: 1512749657641295588
+      Mobile - Angry Birds - Pre-Chrome Characters_151: -4125092198486845230
+      Mobile - Angry Birds - Pre-Chrome Characters_152: 497315114895184161
+      Mobile - Angry Birds - Pre-Chrome Characters_153: -3215280634989159021
+      Mobile - Angry Birds - Pre-Chrome Characters_154: -6634006527779352766
+      Mobile - Angry Birds - Pre-Chrome Characters_155: -1225710396399043967
+      Mobile - Angry Birds - Pre-Chrome Characters_156: -7802435159130882436
+      Mobile - Angry Birds - Pre-Chrome Characters_157: -4576278662615577577
+      Mobile - Angry Birds - Pre-Chrome Characters_158: 3097522481375894582
+      Mobile - Angry Birds - Pre-Chrome Characters_159: -6747610655597116366
+      Mobile - Angry Birds - Pre-Chrome Characters_16: 7032674282173404659
+      Mobile - Angry Birds - Pre-Chrome Characters_160: 395014098408685900
+      Mobile - Angry Birds - Pre-Chrome Characters_161: 3047707722634600247
+      Mobile - Angry Birds - Pre-Chrome Characters_162: 5635783478036197881
+      Mobile - Angry Birds - Pre-Chrome Characters_163: -8120861130852093063
+      Mobile - Angry Birds - Pre-Chrome Characters_164: 5116409929489272233
+      Mobile - Angry Birds - Pre-Chrome Characters_165: 1971917668829465702
+      Mobile - Angry Birds - Pre-Chrome Characters_166: 3443462015049883265
+      Mobile - Angry Birds - Pre-Chrome Characters_167: 5962728661628244933
+      Mobile - Angry Birds - Pre-Chrome Characters_168: 8390832331960387425
+      Mobile - Angry Birds - Pre-Chrome Characters_169: 1250518381478926267
+      Mobile - Angry Birds - Pre-Chrome Characters_17: 3810725907568933616
+      Mobile - Angry Birds - Pre-Chrome Characters_170: -9127054959385161051
+      Mobile - Angry Birds - Pre-Chrome Characters_171: -6359305561040434712
+      Mobile - Angry Birds - Pre-Chrome Characters_172: -3705653595951172970
+      Mobile - Angry Birds - Pre-Chrome Characters_173: -358740070107689017
+      Mobile - Angry Birds - Pre-Chrome Characters_174: 3650405323836532215
+      Mobile - Angry Birds - Pre-Chrome Characters_175: 7600832023028642566
+      Mobile - Angry Birds - Pre-Chrome Characters_176: -3683563431218776198
+      Mobile - Angry Birds - Pre-Chrome Characters_177: 8610601528699336841
+      Mobile - Angry Birds - Pre-Chrome Characters_178: 4863832673927349614
+      Mobile - Angry Birds - Pre-Chrome Characters_179: 8606795823076238979
+      Mobile - Angry Birds - Pre-Chrome Characters_18: -6648991507822292244
+      Mobile - Angry Birds - Pre-Chrome Characters_180: -4906197220219879274
+      Mobile - Angry Birds - Pre-Chrome Characters_181: 6203157255104899896
+      Mobile - Angry Birds - Pre-Chrome Characters_182: -1131802484396026386
+      Mobile - Angry Birds - Pre-Chrome Characters_183: 937195079637479585
+      Mobile - Angry Birds - Pre-Chrome Characters_184: -1506913443144293515
+      Mobile - Angry Birds - Pre-Chrome Characters_185: -931763480784680447
+      Mobile - Angry Birds - Pre-Chrome Characters_186: -8355654348732051373
+      Mobile - Angry Birds - Pre-Chrome Characters_187: 5793067615846099081
+      Mobile - Angry Birds - Pre-Chrome Characters_188: -4569485796386893609
+      Mobile - Angry Birds - Pre-Chrome Characters_189: 1740519654698852535
+      Mobile - Angry Birds - Pre-Chrome Characters_19: 2050213189345401651
+      Mobile - Angry Birds - Pre-Chrome Characters_2: 3541534090913766213
+      Mobile - Angry Birds - Pre-Chrome Characters_20: -5113277718199006007
+      Mobile - Angry Birds - Pre-Chrome Characters_21: 6900628693188238674
+      Mobile - Angry Birds - Pre-Chrome Characters_22: 308080654968442341
+      Mobile - Angry Birds - Pre-Chrome Characters_23: 5095495982879354764
+      Mobile - Angry Birds - Pre-Chrome Characters_24: 1115833414659537833
+      Mobile - Angry Birds - Pre-Chrome Characters_25: 323152734147704137
+      Mobile - Angry Birds - Pre-Chrome Characters_26: 6731041529807364336
+      Mobile - Angry Birds - Pre-Chrome Characters_27: -4691387771165864630
+      Mobile - Angry Birds - Pre-Chrome Characters_28: 4432747111272498981
+      Mobile - Angry Birds - Pre-Chrome Characters_29: -8057881186664697842
+      Mobile - Angry Birds - Pre-Chrome Characters_3: 3775111717529227259
+      Mobile - Angry Birds - Pre-Chrome Characters_30: 7617982654733972662
+      Mobile - Angry Birds - Pre-Chrome Characters_31: 2421909664660394821
+      Mobile - Angry Birds - Pre-Chrome Characters_32: 6135403148977230741
+      Mobile - Angry Birds - Pre-Chrome Characters_33: 5083768081764507285
+      Mobile - Angry Birds - Pre-Chrome Characters_34: 7735455580013844609
+      Mobile - Angry Birds - Pre-Chrome Characters_35: -8180525395677653640
+      Mobile - Angry Birds - Pre-Chrome Characters_36: 375403677325769585
+      Mobile - Angry Birds - Pre-Chrome Characters_37: -1074067024815802621
+      Mobile - Angry Birds - Pre-Chrome Characters_38: 1249104995219767210
+      Mobile - Angry Birds - Pre-Chrome Characters_39: 4907478583373396476
+      Mobile - Angry Birds - Pre-Chrome Characters_4: -4988435759961884702
+      Mobile - Angry Birds - Pre-Chrome Characters_40: -3064172296552841191
+      Mobile - Angry Birds - Pre-Chrome Characters_41: -1012180776142064109
+      Mobile - Angry Birds - Pre-Chrome Characters_42: 5363508981019713665
+      Mobile - Angry Birds - Pre-Chrome Characters_43: 9167119122348748990
+      Mobile - Angry Birds - Pre-Chrome Characters_44: -4789814234420484433
+      Mobile - Angry Birds - Pre-Chrome Characters_45: 7308567585837095900
+      Mobile - Angry Birds - Pre-Chrome Characters_46: 4434950373472506930
+      Mobile - Angry Birds - Pre-Chrome Characters_47: -6616057434931237493
+      Mobile - Angry Birds - Pre-Chrome Characters_48: -5482573622063510272
+      Mobile - Angry Birds - Pre-Chrome Characters_49: 3942117400938972109
+      Mobile - Angry Birds - Pre-Chrome Characters_5: 5590338358409723269
+      Mobile - Angry Birds - Pre-Chrome Characters_50: 1834204604511420957
+      Mobile - Angry Birds - Pre-Chrome Characters_51: 754579697707076987
+      Mobile - Angry Birds - Pre-Chrome Characters_52: -5185742867313045601
+      Mobile - Angry Birds - Pre-Chrome Characters_53: -8578409080710714229
+      Mobile - Angry Birds - Pre-Chrome Characters_54: -5389206872115891371
+      Mobile - Angry Birds - Pre-Chrome Characters_55: -8056087786556758487
+      Mobile - Angry Birds - Pre-Chrome Characters_56: -352617903166150614
+      Mobile - Angry Birds - Pre-Chrome Characters_57: 5775744269995817289
+      Mobile - Angry Birds - Pre-Chrome Characters_58: 3186542617612375004
+      Mobile - Angry Birds - Pre-Chrome Characters_59: -2902188855182123802
+      Mobile - Angry Birds - Pre-Chrome Characters_6: 9033722943457544715
+      Mobile - Angry Birds - Pre-Chrome Characters_60: 8539128565075133316
+      Mobile - Angry Birds - Pre-Chrome Characters_61: 6859631830048915731
+      Mobile - Angry Birds - Pre-Chrome Characters_62: 1459139025971703213
+      Mobile - Angry Birds - Pre-Chrome Characters_63: -8383428039135318713
+      Mobile - Angry Birds - Pre-Chrome Characters_64: -3782729807445457127
+      Mobile - Angry Birds - Pre-Chrome Characters_65: -964934963615487160
+      Mobile - Angry Birds - Pre-Chrome Characters_66: 1753828060313586997
+      Mobile - Angry Birds - Pre-Chrome Characters_67: -166243477827697053
+      Mobile - Angry Birds - Pre-Chrome Characters_68: 5280752246559514151
+      Mobile - Angry Birds - Pre-Chrome Characters_69: -4886871538612977459
+      Mobile - Angry Birds - Pre-Chrome Characters_7: -6612480006319381896
+      Mobile - Angry Birds - Pre-Chrome Characters_70: -3052311029496906890
+      Mobile - Angry Birds - Pre-Chrome Characters_71: 1233123369026794205
+      Mobile - Angry Birds - Pre-Chrome Characters_72: -6221604713480565707
+      Mobile - Angry Birds - Pre-Chrome Characters_73: 1660446298648973789
+      Mobile - Angry Birds - Pre-Chrome Characters_74: 7772161309678391147
+      Mobile - Angry Birds - Pre-Chrome Characters_75: -4480043481994516253
+      Mobile - Angry Birds - Pre-Chrome Characters_76: 769257665860576760
+      Mobile - Angry Birds - Pre-Chrome Characters_77: 2552061650745042033
+      Mobile - Angry Birds - Pre-Chrome Characters_78: -722207285361456260
+      Mobile - Angry Birds - Pre-Chrome Characters_79: -5121720986537672843
+      Mobile - Angry Birds - Pre-Chrome Characters_8: -3283054539593369786
+      Mobile - Angry Birds - Pre-Chrome Characters_80: 6041674705527658710
+      Mobile - Angry Birds - Pre-Chrome Characters_81: 742408143519490230
+      Mobile - Angry Birds - Pre-Chrome Characters_82: -6303428707741643922
+      Mobile - Angry Birds - Pre-Chrome Characters_83: 8697167059763620525
+      Mobile - Angry Birds - Pre-Chrome Characters_84: -164688510393055952
+      Mobile - Angry Birds - Pre-Chrome Characters_85: 192705517515754846
+      Mobile - Angry Birds - Pre-Chrome Characters_86: 5956269681022083013
+      Mobile - Angry Birds - Pre-Chrome Characters_87: 276815268408504546
+      Mobile - Angry Birds - Pre-Chrome Characters_88: 602612964013152573
+      Mobile - Angry Birds - Pre-Chrome Characters_89: 3407473474590316348
+      Mobile - Angry Birds - Pre-Chrome Characters_9: -1343046445847104336
+      Mobile - Angry Birds - Pre-Chrome Characters_90: 3310207404792047218
+      Mobile - Angry Birds - Pre-Chrome Characters_91: 2034954883218272928
+      Mobile - Angry Birds - Pre-Chrome Characters_92: 1928147227851760627
+      Mobile - Angry Birds - Pre-Chrome Characters_93: -7983022604681879963
+      Mobile - Angry Birds - Pre-Chrome Characters_94: 4395928975211427597
+      Mobile - Angry Birds - Pre-Chrome Characters_95: -4790252707247095080
+      Mobile - Angry Birds - Pre-Chrome Characters_96: 4713157280338940254
+      Mobile - Angry Birds - Pre-Chrome Characters_97: -3123693981292031296
+      Mobile - Angry Birds - Pre-Chrome Characters_98: 2325000052295557544
+      Mobile - Angry Birds - Pre-Chrome Characters_99: -4766843190743715177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
